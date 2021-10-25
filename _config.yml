@@ -1,1 +1,15 @@
-theme: jekyll-theme-slate
+title: Luc Cappellaro's blog
+description: Keep calm and continue!
+author: Luc Cappellaro
+
+theme: minima
+github_username:   LucCappellaro
+linkedin_username: cappellaro
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+
