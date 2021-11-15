@@ -5,6 +5,7 @@ author: Luc Cappellaro
 theme: minima
 github_username:   LucCappellaro
 linkedin_username: cappellaro
+show_excerpts: true
 
 disqus:
   shortname: utterances
