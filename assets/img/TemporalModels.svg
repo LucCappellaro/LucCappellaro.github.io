@@ -1,0 +1,73 @@
+<svg height="7.861111in" viewBox="0 0 566 566" width="7.861111in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<marker id="a" markerHeight="15.75" markerUnits="userSpaceOnUse" markerWidth="27" orient="auto" viewBox="-13.5 -7.875 27 15.75">
+		<path d="M-6.75 3.938 0 0-6.75-3.938" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2.25"/>
+	</marker>
+	<g text-rendering="geometricPrecision">
+		<path d="M0 0H566.8751V566.8751H0Z" fill="#f5f5f5"/>
+		<g transform="translate(7.200012 3.6)">
+			<path d="M145.02 38.5 407.45 38.5 407.45 40.58 145.02 40.58z"/>
+			<text font-family="Segoe UI" font-size="25.98pt" x="145.0219" y="36.07521"><tspan x="145.0219" y="36.07521">Temporal models</tspan></text>
+		</g>
+		<path d="M28.32 255.09 170 255.09 170 283.42 28.32 283.42z"/>
+		<path d="M28.32 255.09 170 255.09 170 283.42 28.32 283.42z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(28.31945 255.0874)" x="48.52636" y="17.52423"><tspan x="48.52636" y="17.52423">Entity</tspan></text>
+		<g transform="translate(35.52055 213.264252)">
+			<path d="M8.18 20.99 126.15 20.99 126.15 22.19 8.18 22.19z"/>
+			<text font-family="Segoe UI" font-size="15pt" x="8.17878" y="19.58857"><tspan x="8.17878" y="19.58857">Nontemporal</tspan></text>
+		</g>
+		<g transform="translate(219.851273 213.264252)">
+			<path d="M12.24 20.99 122.09 20.99 122.09 22.19 12.24 22.19z"/>
+			<text font-family="Segoe UI" font-size="15pt" x="12.24128" y="19.58857"><tspan x="12.24128" y="19.58857">Unitemporal</tspan></text>
+		</g>
+		<g transform="translate(396.8234 212.571335)">
+			<path d="M22.73 20.99 118.95 20.99 118.95 22.19 22.73 22.19z"/>
+			<text font-family="Segoe UI" font-size="15pt" x="22.72897" y="19.58857"><tspan x="22.72897" y="19.58857">Bitemporal</tspan></text>
+		</g>
+		<path d="M28.32 283.43 170 283.43 170 311.78 28.32 311.78z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(33.988663 283.433868)" y="17.52423"><tspan x="0" y="17.52423">key</tspan></text>
+		<path d="M28.32 311.78 170 311.78 170 340.13 28.32 340.13z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(33.98874 311.7803)" y="17.52423"><tspan x="0" y="17.52423">value</tspan></text>
+		<path d="M212.63 255.09 354.3 255.09 354.3 283.42 212.63 283.42z"/>
+		<path d="M212.63 255.09 354.3 255.09 354.3 283.42 212.63 283.42z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(212.625885 255.0874)" x="48.52636" y="17.52423"><tspan x="48.52636" y="17.52423">Entity</tspan></text>
+		<path d="M212.63 283.43 354.3 283.43 354.3 311.78 212.63 311.78z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(218.2951 283.433868)" y="17.52423"><tspan x="0" y="17.52423">key</tspan></text>
+		<path d="M212.17 369.22 353.85 369.22 353.85 397.55 212.17 397.55z" fill="#a5a5a5"/>
+		<path d="M212.17 369.22 353.85 369.22 353.85 397.55 212.17 397.55z" fill="none" stroke="#787878"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(212.171082 369.217651)" x="16.29882" y="17.52423"><tspan x="16.29882" y="17.52423">Entity_History</tspan></text>
+		<path d="M212.7 453.51 354.38 453.51 354.38 481.86 212.7 481.86z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(218.36676 453.5126)" y="17.52423"><tspan x="0" y="17.52423">value</tspan></text>
+		<path d="M283.01 311.78 283.43 364.7 283.44 365.83" fill="none" marker-end="url(#a)" stroke="#000" stroke-width="2.25" transform="matrix(-1 0 0 1 566.474731 0)"/>
+		<path d="M212.57 396.82 354.25 396.82 354.25 425.17 212.57 425.17z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(218.2406 396.819672)" y="17.52423"><tspan x="0" y="17.52423">key</tspan></text>
+		<path d="M212.63 425.17 354.3 425.17 354.3 453.52 212.63 453.52z" fill="#70ad47"/>
+		<path d="M212.63 425.17 354.3 425.17 354.3 453.52 212.63 453.52z" fill="none" stroke="#507e32"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(218.2951 425.166138)" y="17.52423"><tspan x="0" y="17.52423">time</tspan></text>
+		<path d="M397.02 255.12 538.7 255.12 538.7 283.46 397.02 283.46z"/>
+		<path d="M397.02 255.12 538.7 255.12 538.7 283.46 397.02 283.46z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(397.0248 255.124817)" x="48.52636" y="17.52423"><tspan x="48.52636" y="17.52423">Entity</tspan></text>
+		<path d="M397.02 283.43 538.7 283.43 538.7 311.78 397.02 311.78z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(402.694 283.433868)" y="17.52423"><tspan x="0" y="17.52423">key</tspan></text>
+		<path d="M396.82 368.53 538.5 368.53 538.5 396.86 396.82 396.86z" fill="#a5a5a5"/>
+		<path d="M396.82 368.53 538.5 368.53 538.5 396.86 396.82 396.86z" fill="none" stroke="#787878"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(396.8223 368.525116)" x="16.65917" y="17.52423"><tspan x="16.65917" y="17.52423">Entity_Bitemp</tspan></text>
+		<path d="M396.97 481.86 538.65 481.86 538.65 510.21 396.97 510.21z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(402.639526 481.85907)" y="17.52423"><tspan x="0" y="17.52423">value</tspan></text>
+		<path d="M467.66 311.78 467.85 364.02 467.85 365.14" fill="none" marker-end="url(#a)" stroke="#000" stroke-width="2.25" transform="matrix(-1 0 0 1 935.524841 0)"/>
+		<path d="M396.9 396.82 538.58 396.82 538.58 425.17 396.9 425.17z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(402.567932 396.819672)" y="17.52423"><tspan x="0" y="17.52423">key</tspan></text>
+		<path d="M396.9 425.17 538.58 425.17 538.58 453.52 396.9 453.52z" fill="#70ad47"/>
+		<path d="M396.9 425.17 538.58 425.17 538.58 453.52 396.9 453.52z" fill="none" stroke="#507e32"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(402.567932 425.166138)" y="17.52423"><tspan x="0" y="17.52423">record time</tspan></text>
+		<path d="M396.9 453.51 538.58 453.51 538.58 481.86 396.9 481.86z" fill="#70ad47"/>
+		<path d="M396.9 453.51 538.58 453.51 538.58 481.86 396.9 481.86z" fill="none" stroke="#507e32"/>
+		<g font-family="Segoe UI" font-size="13.5pt">
+			<text fill="#fff" transform="translate(402.567932 453.5126)" y="17.52423"><tspan x="0" y="17.52423">valid interval</tspan></text>
+			<text transform="translate(266.8827 315.3803)" y="17.52423"><tspan x="0" y="17.52423">1</tspan></text>
+			<text transform="translate(290.637482 342.991974)" y="17.52423"><tspan x="0" y="17.52423">many</tspan></text>
+			<text transform="translate(451.134644 315.3803)" y="17.52423"><tspan x="0" y="17.52423">1</tspan></text>
+			<text transform="translate(476.358276 342.991974)" y="17.52423"><tspan x="0" y="17.52423">many</tspan></text>
+			<text transform="translate(35.575028 60.442043)" x="22.5" y="103.9242"><tspan x="0" y="17.52423">There are three common ways to persist temporal data</tspan><tspan font-family="Arial" font-size="13.875pt" x="0" y="39.12423">•</tspan><tspan x="22.5" y="39.12423">Nontemporal: probably mutable (hangs around with bugs)</tspan><tspan font-family="Arial" font-size="13.875pt" x="0" y="60.72423">•</tspan><tspan x="22.5" y="60.72423">Unitemporal: a compromise</tspan><tspan font-family="Arial" font-size="13.875pt" x="0" y="82.32423">•</tspan><tspan x="22.5" y="82.32423">Bitemporal: immutable past, current and future values</tspan><tspan font-family="Arial" font-size="13.875pt" x="0" y="103.9242">•</tspan><tspan x="22.5" y="103.9242">Tritemporal: you are probably overengineering</tspan></text>
+		</g>
+	</g>
+</svg>
