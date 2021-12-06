@@ -37,6 +37,8 @@ Here is a very limited subset of possibilities in no particular order:
 * [Solaris Containers](https://www.oracle.com/solaris/technologies/solaris-containers.html) built-in feature of Solaris
 * [FreeBSD Jails](https://docs.freebsd.org/en/books/handbook/jails/) built-in feature of FreeBSD
 * [Bocker](https://github.com/p8952/bocker) an alternative implementation which shows how simple it can get
+* [Nanos](https://nanos.org/thebook#security)
+* [Kaniko doesn't depend on a Docker daemon](https://github.com/GoogleContainerTools/kaniko)
 * …
 
 
