@@ -1,0 +1,71 @@
+<svg height="7.861111in" viewBox="0 0 566 566" width="7.861111in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<marker id="a" markerHeight="7" markerUnits="userSpaceOnUse" markerWidth="12" orient="auto" viewBox="-6 -3.5 12 7">
+		<ellipse cx=".9" fill="#808080" rx="1.5" ry="1.5"/>
+	</marker>
+	<marker id="b" markerHeight="15.75" markerUnits="userSpaceOnUse" markerWidth="27" orient="auto" viewBox="-13.5 -7.875 27 15.75">
+		<path d="M6.075 0-.675 3.375-.675-3.375 6.075 0z"/>
+	</marker>
+	<g text-rendering="geometricPrecision">
+		<path d="M0 0H566.8751V566.8751H0Z" fill="#f5f5f5"/>
+		<g transform="translate(7.200012 3.6)">
+			<path d="M87.69 38.5 464.79 38.5 464.79 40.58 87.69 40.58z"/>
+			<text font-family="Segoe UI" font-size="25.98pt" x="87.68533" y="36.07521"><tspan x="87.68533" y="36.07521">Actual bitemporal matrix</tspan></text>
+		</g>
+		<path d="M28.32 226.74 141.71 226.74 141.71 311.78 28.32 311.78z" fill="none" stroke="#808080"/>
+		<text fill="#808080" font-family="Segoe UI" font-size="13.5pt" transform="translate(28.31937 226.744568)" x=".761272" y="70.84392"><tspan x="15.19291" y="27.64392">what most</tspan><tspan x="98.19292" xml:space="preserve" y="27.64392"></tspan><tspan x="7.817913" y="49.24392">consider the</tspan><tspan x="105.5679" xml:space="preserve" y="49.24392"></tspan><tspan x=".761272" y="70.84392">“current” state</tspan></text>
+		<path d="M28.32 347.24 141.71 347.24 141.71 432.28 28.32 432.28z" fill="none" stroke="#808080"/>
+		<text fill="#808080" font-family="Segoe UI" font-size="13.5pt" transform="translate(28.31937 347.24408)" x="37.57573" y="81.64391"><tspan x="22.94291" y="16.84392">business</tspan><tspan x="90.44292" xml:space="preserve" y="16.84392"></tspan><tspan x="14.25053" y="38.44392">requires to</tspan><tspan x="99.1353" xml:space="preserve" y="38.44392"></tspan><tspan x="9.670452" y="60.04391">archive past</tspan><tspan x="103.7154" xml:space="preserve" y="60.04391"></tspan><tspan x="37.57573" y="81.64391">state</tspan></text>
+		<path d="M28.32 106.3 141.71 106.3 141.71 191.34 28.32 191.34z" fill="none" stroke="#808080"/>
+		<text fill="#808080" font-family="Segoe UI" font-size="13.5pt" transform="translate(28.31937 106.29921)" x="12.62407" y="81.64391"><tspan x="34.94291" y="16.84392">many</tspan><tspan x="78.44292" xml:space="preserve" y="16.84392"></tspan><tspan x="24.13041" y="38.44392">struggle</tspan><tspan x="89.25542" xml:space="preserve" y="38.44392"></tspan><tspan x="39.88041" y="60.04391">with</tspan><tspan x="73.50542" xml:space="preserve" y="60.04391"></tspan><tspan x="12.62407" y="81.64391">predictions</tspan></text>
+		<path d="M141.71 148.79 155.88 148.82" fill="none" stroke="#808080" transform="matrix(1 0 0 -1 0 297.610718)"/>
+		<path d="M167.22 184.22C164.09 184.22 161.55 181.65 161.55 178.48 161.55 178.48 161.55 178.48 161.55 178.48L161.55 154.54 161.55 154.54C161.55 151.36 159.01 148.79 155.88 148.79L155.88 148.79C159.01 148.79 161.55 146.22 161.55 143.05L161.55 119.1C161.55 115.93 164.09 113.36 167.22 113.36" fill="none" stroke="#808080"/>
+		<path d="M508.79 511.63C505.66 511.63 503.12 509.05 503.12 505.88 503.12 505.88 503.12 505.88 503.12 505.88L503.12 481.94 503.12 481.94C503.12 478.77 500.58 476.19 497.45 476.19 500.58 476.19 503.12 473.62 503.12 470.45L503.12 446.51C503.12 443.33 505.66 440.76 508.79 440.76" fill="none" stroke="#808080" transform="matrix(0 -1 -1 0 979.3159 979.3159)"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(170.051651 467.689453)" x="136.5586" y="17.52423"><tspan x="136.5586" y="17.52423">Record time</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 148.240967 467.689575)" x="102.4408" y="17.52423"><tspan x="102.4408" y="17.52423">Valid time</tspan></text>
+		<path d="M170.05 113.36 396.82 113.36 396.82 184.22 170.05 184.22z" fill="none" stroke="#000"/>
+		<path d="M396.82 184.22 467.69 184.22 467.69 368.48 396.82 368.48z" fill="none" stroke="#000"/>
+		<path d="M467.69 368.48 538.56 368.48 538.56 467.69 467.69 467.69z" fill="none" stroke="#000"/>
+		<path d="M170.05 184.22 396.82 184.22 396.82 368.48 170.05 368.48z" fill="#70ad47"/>
+		<path d="M170.05 184.22 396.82 184.22 396.82 368.48 170.05 368.48z" fill="none" stroke="#000"/>
+		<path d="M170.05 368.48 396.82 368.48 396.82 467.69 170.05 467.69z" fill="#a6a6a6"/>
+		<path d="M170.05 368.48 396.82 368.48 396.82 467.69 170.05 467.69z" fill="none" stroke="#000"/>
+		<path d="M396.82 368.48 467.69 368.48 467.69 467.69 396.82 467.69z" fill="none" stroke="#000"/>
+		<path d="M396.82 113.36 467.69 113.36 467.69 184.22 396.82 184.22z" fill="none" stroke="#000"/>
+		<path d="M467.69 184.22 538.56 184.22 538.56 368.48 467.69 368.48z" fill="none" stroke="#000"/>
+		<path d="M467.69 113.36 538.56 113.36 538.56 184.22 467.69 184.22z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 170.051773 170.05162)" x="4.652609" y="17.52423"><tspan x="4.652609" y="17.52423">future</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 396.823364 170.051636)" x="4.652569" y="17.52423"><tspan x="4.652569" y="17.52423">future</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 467.6895 170.051666)" x="4.652609" y="17.52423"><tspan x="4.652609" y="17.52423">future</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(184.224884 162.41394)" x="4.628494" y="17.52423"><tspan x="4.628494" y="17.52423">past</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(396.8233 162.41394)" x="18.62057" y="17.52423"><tspan x="18.62057" y="17.52423">now</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(481.862671 162.41394)" x="4.652609" y="17.52423"><tspan x="4.652609" y="17.52423">future</tspan></text>
+		<path d="M141.71 269.26 195.68 269.26 196.18 269.26" fill="none" marker-end="url(#a)" stroke="#808080"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(396.8233 346.6659)" x="18.62057" y="17.52423"><tspan x="18.62057" y="17.52423">now</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(481.862671 346.6659)" x="4.652609" y="17.52423"><tspan x="4.652609" y="17.52423">future</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(396.8233 445.8785)" x="18.62057" y="17.52423"><tspan x="18.62057" y="17.52423">now</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(481.862671 445.8785)" x="4.652609" y="17.52423"><tspan x="4.652609" y="17.52423">future</tspan></text>
+		<path d="M437.93 140.29C434.79 140.29 432.26 137.72 432.26 134.54 432.26 134.54 432.26 134.54 432.26 134.54L432.26 110.6 432.26 110.6C432.26 107.43 429.72 104.85 426.59 104.85 429.72 104.85 432.26 102.28 432.26 99.11L432.26 75.17C432.26 71.99 434.79 69.42 437.93 69.42" fill="none" stroke="#808080" transform="matrix(0 1 -1 0 537.1112 -327.401581)"/>
+		<g font-family="Segoe UI" font-size="13.5pt">
+			<text fill="#fff" transform="matrix(0 -1 1 0 170.051758 354.303619)" x="4.447264" y="17.52423"><tspan x="4.447264" y="17.52423">now</tspan></text>
+			<text fill="#fff" transform="translate(184.224808 346.6659)" x="4.628494" y="17.52423"><tspan x="4.628494" y="17.52423">past</tspan></text>
+			<text fill="#fff" transform="matrix(0 -1 1 0 170.051682 453.516235)" x="4.628416" y="17.52423"><tspan x="4.628416" y="17.52423">past</tspan></text>
+			<text fill="#fff" transform="translate(184.224731 445.8785)" x="4.628494" y="17.52423"><tspan x="4.628494" y="17.52423">past</tspan></text>
+			<text transform="matrix(0 -1 1 0 396.823334 354.303528)" x="4.447264" y="17.52423"><tspan x="4.447264" y="17.52423">now</tspan></text>
+			<text transform="matrix(0 -1 1 0 467.689484 354.303528)" x="4.447264" y="17.52423"><tspan x="4.447264" y="17.52423">now</tspan></text>
+			<text transform="matrix(0 -1 1 0 396.823334 453.516174)" x="4.628416" y="17.52423"><tspan x="4.628416" y="17.52423">past</tspan></text>
+			<text transform="matrix(0 -1 1 0 467.689484 453.5161)" x="4.628416" y="17.52423"><tspan x="4.628416" y="17.52423">past</tspan></text>
+		</g>
+		<path d="M340.13 56.67 538.56 56.67 538.56 99.19 340.13 99.19z" fill="#f5f5f5"/>
+		<path d="M340.13 56.67 538.56 56.67 538.56 99.19 340.13 99.19z" fill="none" stroke="#808080"/>
+		<text fill="#808080" font-family="Segoe UI" font-size="13.5pt" transform="translate(340.130432 56.665825)" x="27.33125" y="38.78407"><tspan x="10.46407" y="17.18407">no system is real-time,</tspan><tspan x="27.33125" y="38.78407">there is always lag</tspan></text>
+		<path d="M170.05 99.19 170.05 459.42 170.05 460.55" fill="none" marker-end="url(#b)" stroke="#000" stroke-width="2.25" transform="matrix(1 0 0 -1 0 566.874939)"/>
+		<path d="M170.08 467.69 544.46 467.69 545.58 467.69" fill="none" marker-end="url(#b)" stroke="#000" stroke-width="2.25"/>
+		<path d="M503.01 481.86 503.01 510.21" fill="none" stroke="#808080"/>
+		<path d="M340.13 496.04 538.56 496.04 538.56 538.56 340.13 538.56z" fill="#f5f5f5"/>
+		<path d="M340.13 496.04 538.56 496.04 538.56 538.56 340.13 538.56z" fill="none" stroke="#808080"/>
+		<text fill="#808080" font-family="Segoe UI" font-size="13.5pt" transform="translate(340.130432 496.03595)" x="13.01241" y="38.78407"><tspan x="16.08125" y="17.18407">considered a lie/bug,</tspan><tspan x="182.3439" xml:space="preserve" y="17.18407"></tspan><tspan x="13.01241" y="38.78407">not a promise/feature</tspan></text>
+		<path d="M141.71 389.76 195.68 389.76 196.18 389.76" fill="none" marker-end="url(#a)" stroke="#808080"/>
+		<path d="M426.1 276.35C426.1 272.44 429.06 269.26 432.72 269.26 436.38 269.26 439.34 272.44 439.34 276.35 439.34 276.35 439.34 276.35 439.34 276.35L439.34 276.35C439.34 280.26 436.38 283.44 432.72 283.44L432.72 283.44C429.06 283.44 426.1 280.26 426.1 276.35 426.1 276.35 426.1 276.35 426.1 276.35z"/>
+		<path d="M426.1 276.35C426.1 272.44 429.06 269.26 432.72 269.26 436.38 269.26 439.34 272.44 439.34 276.35 439.34 276.35 439.34 276.35 439.34 276.35L439.34 276.35C439.34 280.26 436.38 283.44 432.72 283.44L432.72 283.44C429.06 283.44 426.1 280.26 426.1 276.35 426.1 276.35 426.1 276.35 426.1 276.35z" fill="none" stroke="#000"/>
+	</g>
+</svg>
