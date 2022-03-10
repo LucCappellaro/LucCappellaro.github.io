@@ -49,3 +49,6 @@ For the sake of security, just keep in mind:
 Additional links:
 * [doger.io](http://doger.io/)
 * [Anatomy of CVE-2019-5736: A runc container escape!](https://aws.amazon.com/blogs/compute/anatomy-of-cve-2019-5736-a-runc-container-escape/)
+* [CVE-2022-0185: container escape (kernel heap overflow)](https://sysdig.com/blog/cve-2022-0185-container-escape/)
+* [CVE-2022-0492: container escape (cgroups)](https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/)
+* ["Distroless" Container Images](https://github.com/GoogleContainerTools/distroless)
