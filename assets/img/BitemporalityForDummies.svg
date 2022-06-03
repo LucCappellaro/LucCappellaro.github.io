@@ -1,0 +1,93 @@
+<svg height="7.861111in" viewBox="0 0 566 566" width="7.861111in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<marker id="a" markerHeight="15.75" markerUnits="userSpaceOnUse" markerWidth="27" orient="auto" viewBox="-13.5 -7.875 27 15.75">
+		<path d="M6.075 0-.675 3.375-.675-3.375 6.075 0z"/>
+	</marker>
+	<g text-rendering="geometricPrecision">
+		<path d="M0 0H566.8751V566.8751H0Z" fill="#f5f5f5"/>
+		<g transform="translate(7.200012 3.6)">
+			<path d="M73.06 38.5 479.41 38.5 479.41 40.58 73.06 40.58z"/>
+			<text font-family="Segoe UI" font-size="25.98pt" x="73.06033" y="36.07521"><tspan x="73.06033" y="36.07521">Bitemporality for dummies</tspan></text>
+		</g>
+		<path d="M396.82 368.48 524.38 368.48 524.38 396.83 396.82 396.83z" fill="#70ad47"/>
+		<path d="M396.82 368.48 524.38 368.48 524.38 396.83 396.82 396.83z" fill="none" stroke="#507e32"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(396.8233 368.476837)" x="21.15453" y="20.89927"><tspan x="21.15453" y="20.89927">1700-1800</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(35.575028 60.44204)" y="125.5242"><tspan x="0" y="17.52423">Bitemporalily is a confusing mental model. It‘s easier to</tspan><tspan x="435.0332" xml:space="preserve" y="17.52423"></tspan><tspan x="0" y="39.12423">understand if you focus on one time dimension.</tspan><tspan x="378.4102" xml:space="preserve" y="39.12423"></tspan><tspan x="0" y="60.72423">For example, imagine a history book set. New editions are</tspan><tspan x="457.9678" xml:space="preserve" y="60.72423"></tspan><tspan x="0" y="82.32423">published to include errata and new insights. Books can even</tspan><tspan x="482.1289" xml:space="preserve" y="82.32423"></tspan><tspan x="0" y="103.9242">be added or removed. No content gets deleted or overwritten</tspan><tspan x="490.2256" xml:space="preserve" y="103.9242"></tspan><tspan x="0" y="125.5242">and everything remains readable.</tspan></text>
+		<path d="M56.65 255.09 56.65 501.94 56.65 503.07" fill="none" marker-end="url(#a)" stroke="#000" stroke-width="2.25" transform="matrix(1 0 0 -1 0 765.3003)"/>
+		<path d="M56.67 510.21 530.29 510.21 531.41 510.21" fill="none" marker-end="url(#a)" stroke="#000" stroke-width="2.25"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(63.86583 485.462677)" x="432.1147" y="39.12423"><tspan x="412.353" y="17.52423">Record</tspan><tspan x="432.1147" y="39.12423">time</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 31.919403 503.0091)" x="205.3431" y="39.12423"><tspan x="202.3851" y="17.52423">Valid</tspan><tspan x="205.3431" y="39.12423">time</tspan></text>
+		<path d="M396.82 283.44 524.38 283.44 524.38 311.79 396.82 311.79z" fill="#70ad47"/>
+		<path d="M396.82 283.44 524.38 283.44 524.38 311.79 396.82 311.79z" fill="none" stroke="#507e32"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(396.8233 283.437469)" x="21.15453" y="20.89927"><tspan x="21.15453" y="20.89927">1900-2000</tspan></text>
+		<path d="M396.82 325.96 524.38 325.96 524.38 354.31 396.82 354.31z" fill="#70ad47"/>
+		<path d="M396.82 325.96 524.38 325.96 524.38 354.31 396.82 354.31z" fill="none" stroke="#507e32"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(396.8233 325.957153)" x="21.15453" y="20.89927"><tspan x="21.15453" y="20.89927">1800-1900</tspan></text>
+		<path d="M396.82 410.99 524.38 410.99 524.38 439.34 396.82 439.34z" fill="#70ad47"/>
+		<path d="M396.82 410.99 524.38 410.99 524.38 439.34 396.82 439.34z" fill="none" stroke="#507e32"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(396.823242 410.987)" x="21.15453" y="20.89927"><tspan x="21.15453" y="20.89927">1600-1700</tspan></text>
+		<path d="M85.01 325.95 212.57 325.95 212.57 354.28 85.01 354.28z"/>
+		<path d="M85.01 325.95 212.57 325.95 212.57 354.28 85.01 354.28z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(85.01236 325.947632)" x="21.15457" y="20.89269"><tspan x="21.15457" y="20.89269">1800-1900</tspan></text>
+		<path d="M89.82 325.96 89.82 354.3" fill="none" stroke="#70ad47"/>
+		<path d="M104 325.96 104 354.3" fill="none" stroke="#70ad47"/>
+		<path d="M96.57 325.96 96.57 354.3" fill="none" stroke="#70ad47" stroke-width="6"/>
+		<path d="M85.01 368.48 212.57 368.48 212.57 396.81 85.01 396.81z"/>
+		<path d="M85.01 368.48 212.57 368.48 212.57 396.81 85.01 396.81z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(85.01228 368.476837)" x="21.15457" y="20.89269"><tspan x="21.15457" y="20.89269">1700-1800</tspan></text>
+		<path d="M89.82 368.49 89.82 396.83" fill="none" stroke="#70ad47"/>
+		<path d="M104 368.49 104 396.83" fill="none" stroke="#70ad47"/>
+		<path d="M96.57 368.49 96.57 396.83" fill="none" stroke="#70ad47" stroke-width="6"/>
+		<path d="M85.01 410.99 212.57 410.99 212.57 439.32 85.01 439.32z"/>
+		<path d="M85.01 410.99 212.57 410.99 212.57 439.32 85.01 439.32z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(85.01228 410.987)" x="21.15457" y="20.89269"><tspan x="21.15457" y="20.89269">1600-1700</tspan></text>
+		<path d="M89.82 411 89.82 439.34" fill="none" stroke="#70ad47"/>
+		<path d="M104 411 104 439.34" fill="none" stroke="#70ad47"/>
+		<path d="M96.57 411 96.57 439.34" fill="none" stroke="#70ad47" stroke-width="6"/>
+		<path d="M85.01 453.51 212.57 453.51 212.57 481.84 85.01 481.84z"/>
+		<path d="M85.01 453.51 212.57 453.51 212.57 481.84 85.01 481.84z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(85.01228 453.506683)" x="21.15457" y="20.89269"><tspan x="21.15457" y="20.89269">1500-1600</tspan></text>
+		<path d="M89.82 453.52 89.82 481.86" fill="none" stroke="#70ad47"/>
+		<path d="M104 453.52 104 481.86" fill="none" stroke="#70ad47"/>
+		<path d="M96.57 453.52 96.57 481.86" fill="none" stroke="#70ad47" stroke-width="6"/>
+		<path d="M240.92 368.48 368.48 368.48 368.48 396.81 240.92 396.81z" fill="#a5a5a5"/>
+		<path d="M240.92 368.48 368.48 368.48 368.48 396.81 240.92 396.81z" fill="none" stroke="#787878"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(240.91777 368.476837)" x="21.15453" y="20.89269"><tspan x="21.15453" y="20.89269">1700-1800</tspan></text>
+		<path d="M244.22 368.48 244.22 396.82" fill="none" stroke="#000"/>
+		<path d="M258.39 368.48 258.39 396.82" fill="none" stroke="#000"/>
+		<path d="M252.28 368.48 252.28 396.82" fill="none" stroke="#000" stroke-width="6"/>
+		<path d="M246.28 368.48 246.28 396.82" fill="none" stroke="#000"/>
+		<path d="M260.45 368.48 260.45 396.82" fill="none" stroke="#000"/>
+		<path d="M240.92 411 368.48 411 368.48 439.33 240.92 439.33z" fill="#a5a5a5"/>
+		<path d="M240.92 411 368.48 411 368.48 439.33 240.92 439.33z" fill="none" stroke="#787878"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(240.91777 410.996521)" x="21.15453" y="20.89269"><tspan x="21.15453" y="20.89269">1600-1700</tspan></text>
+		<g fill="none">
+			<path d="M244.22 411 244.22 439.34" stroke="#000"/>
+			<path d="M258.39 411 258.39 439.34" stroke="#000"/>
+			<path d="M252.28 411 252.28 439.34" stroke="#000" stroke-width="6"/>
+			<path d="M246.28 411 246.28 439.34" stroke="#000"/>
+			<path d="M260.45 411 260.45 439.34" stroke="#000"/>
+			<path d="M510.21 283.44 510.21 311.78" stroke="#fff" stroke-width="6"/>
+			<path d="M411 283.44 411 311.78" stroke="#fff" stroke-width="6"/>
+			<path d="M510.21 325.96 510.21 354.3" stroke="#fff" stroke-width="6"/>
+			<path d="M411 325.96 411 354.3" stroke="#fff" stroke-width="6"/>
+			<path d="M510.21 368.48 510.21 396.82" stroke="#fff" stroke-width="6"/>
+			<path d="M411 368.48 411 396.82" stroke="#fff" stroke-width="6"/>
+			<path d="M510.21 411 510.21 439.34" stroke="#fff" stroke-width="6"/>
+			<path d="M411 411 411 439.34" stroke="#fff" stroke-width="6"/>
+			<path d="M304.21 510.21 304.21 524.38" stroke="#000"/>
+		</g>
+		<path d="M240.92 325.96 368.48 325.96 368.48 354.29 240.92 354.29z" fill="#a5a5a5"/>
+		<path d="M240.92 325.96 368.48 325.96 368.48 354.29 240.92 354.29z" fill="none" stroke="#787878"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(240.91777 325.957153)" x="21.15453" y="20.89269"><tspan x="21.15453" y="20.89269">1800-1900</tspan></text>
+		<path d="M244.22 325.96 244.22 354.3" fill="none" stroke="#000"/>
+		<path d="M258.39 325.96 258.39 354.3" fill="none" stroke="#000"/>
+		<path d="M252.28 325.96 252.28 354.3" fill="none" stroke="#000" stroke-width="6"/>
+		<path d="M246.28 325.96 246.28 354.3" fill="none" stroke="#000"/>
+		<path d="M260.45 325.96 260.45 354.3" fill="none" stroke="#000"/>
+		<path d="M148.31 510.21 148.31 524.38" fill="none" stroke="#000"/>
+		<path d="M460.12 510.21 460.12 524.38" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(92.21228 527.247559)" x="22.01703" y="17.52423"><tspan x="22.01703" y="17.52423">1.edition</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(248.1178 527.247559)" x="22.01703" y="17.52423"><tspan x="22.01703" y="17.52423">2.edition</tspan></text>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(404.023315 527.247559)" x="22.01703" y="17.52423"><tspan x="22.01703" y="17.52423">3.edition</tspan></text>
+	</g>
+</svg>
