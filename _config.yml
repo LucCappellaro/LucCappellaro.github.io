@@ -6,6 +6,7 @@ theme: minima
 github_username:   LucCappellaro
 linkedin_username: cappellaro
 show_excerpts: true
+google_analytics: true
 
 disqus:
   shortname: utterances
