@@ -1,0 +1,98 @@
+<svg height="7.861111in" viewBox="0 0 566 566" width="7.861111in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<radialGradient id="a" cx="461" cy="360" gradientTransform="scale(1 1.0625)" gradientUnits="userSpaceOnUse" r="112" spreadMethod="reflect">
+		<stop offset="0" stop-color="#d7d7d7"/>
+		<stop offset=".41" stop-color="#d7d7d7"/>
+		<stop offset=".83" stop-color="#fff" stop-opacity="0"/>
+		<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+	</radialGradient>
+	<marker id="b" markerHeight="15.75" markerUnits="userSpaceOnUse" markerWidth="27" orient="auto" viewBox="-13.5 -7.875 27 15.75">
+		<path d="M-6.75 3.938 0 0-6.75-3.938" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2.25"/>
+	</marker>
+	<g text-rendering="geometricPrecision">
+		<path d="M0 0H566.8751V566.8751H0Z" fill="#f5f5f5"/>
+		<path d="M382.65 297.61 538.56 297.61 538.56 467.69 382.65 467.69z" fill="url(#a)"/>
+		<g transform="translate(7.200012 3.6)">
+			<path d="M121.86 38.5 430.61 38.5 430.61 40.58 121.86 40.58z"/>
+			<text font-family="Segoe UI" font-size="25.98pt" x="121.8625" y="36.07521"><tspan x="121.8625" y="36.07521">Deployment models</tspan></text>
+		</g>
+		<path d="M28.2 240.93 184.18 240.93 184.18 269.26 28.2 269.26z"/>
+		<path d="M28.2 240.93 184.18 240.93 184.18 269.26 28.2 269.26z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(28.203934 240.927338)" x="42.24155" y="20.89269"><tspan x="42.24155" y="20.89269">Frontend</tspan></text>
+		<g transform="translate(35.52047 199.091019)">
+			<path d="M33.98 20.99 114.73 20.99 114.73 22.19 33.98 22.19z"/>
+			<text font-family="Segoe UI" font-size="15pt" x="33.97717" y="19.58857"><tspan x="33.97717" y="19.58857">Monolith</tspan></text>
+		</g>
+		<g transform="translate(219.851166 199.091019)">
+			<path d="M14.23 20.99 134.39 20.99 134.39 22.19 14.23 22.19z"/>
+			<text font-family="Segoe UI" font-size="15pt" x="14.23174" y="19.58857"><tspan x="14.23174" y="19.58857">Microservices</tspan></text>
+		</g>
+		<g transform="translate(382.6501 198.398117)">
+			<path d="M33.77 20.99 122.08 20.99 122.08 22.19 33.77 22.19z"/>
+			<text font-family="Segoe UI" font-size="15pt" x="33.77071" y="19.58857"><tspan x="33.77071" y="19.58857">Serverless</tspan></text>
+		</g>
+		<path d="M106.27 467.69 106.28 491.53 106.28 492.66" fill="none" marker-end="url(#b)" stroke="#000" stroke-width="2.25"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(35.575028 60.442043)" y="103.9242"><tspan x="0" y="17.52423">There are two physicial possibilities to deploy a service-system</tspan><tspan font-family="Arial" font-size="13.875pt" x="0" y="39.12423">•</tspan><tspan x="22.5" y="39.12423">Monolith: multiple services per server</tspan><tspan font-family="Arial" font-size="13.875pt" x="0" y="60.72423">•</tspan><tspan x="22.5" y="60.72423">Microservice: one service per server</tspan><tspan font-family="Arial" font-size="13.875pt" x="0" y="82.32423">•</tspan><tspan x="22.5" y="82.32423">Serverless: ignore the servers</tspan><tspan x="0" y="103.9242">From a functional point of view, there should be no difference.</tspan></text>
+		<path d="M28.32 297.61 184.22 297.61 184.22 467.69 28.32 467.69z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(28.319367 297.610718)" x="41.82776" y="17.52423"><tspan x="41.82776" y="17.52423">Monolith</tspan></text>
+		<path d="M28.33 496.04 184.23 496.04 184.23 524.37 28.33 524.37z"/>
+		<path d="M28.33 496.04 184.23 496.04 184.23 524.37 28.33 524.37z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(28.326141 496.035919)" x="44.63293" y="20.89269"><tspan x="44.63293" y="20.89269">Backend</tspan></text>
+		<path d="M106.19 269.26 106.26 293.1 106.26 294.23" fill="none" marker-end="url(#b)" stroke="#000" stroke-width="2.25"/>
+		<path d="M212.46 240.93 368.43 240.93 368.43 269.26 212.46 269.26z"/>
+		<path d="M212.46 240.93 368.43 240.93 368.43 269.26 212.46 269.26z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(212.455734 240.927338)" x="42.23824" y="20.89269"><tspan x="42.23824" y="20.89269">Frontend</tspan></text>
+		<path d="M290.53 467.69 328.87 493.25 329.81 493.88" fill="none" marker-end="url(#b)" stroke="#000" stroke-width="2.25" transform="matrix(-1 0 0 1 623.5746 0)"/>
+		<g transform="matrix(0 -1 1 0 -148.842773 644.8582)">
+			<path d="M191.29 382.68 304.73 382.68 304.73 411.03 191.29 411.03z" fill="#70ad47"/>
+			<path d="M191.29 382.68 304.73 382.68 304.73 411.03 191.29 411.03z" fill="none" stroke="#507e32"/>
+		</g>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 233.832672 453.570557)" x="20.17223" y="20.89927"><tspan x="20.17223" y="20.89927">Service A</tspan></text>
+		<g transform="matrix(0 -1 1 0 -63.803314 729.8977)">
+			<path d="M276.33 382.68 389.77 382.68 389.77 411.03 276.33 411.03z" fill="#70ad47"/>
+			<path d="M276.33 382.68 389.77 382.68 389.77 411.03 276.33 411.03z" fill="none" stroke="#507e32"/>
+		</g>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 318.872131 453.570618)" x="20.79723" y="20.89927"><tspan x="20.79723" y="20.89927">Service B</tspan></text>
+		<path d="M297.62 297.61 368.48 297.61 368.48 467.69 297.62 467.69z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(297.6175 297.610779)" x="8.069332" y="39.12423"><tspan x="9.110836" y="17.52423">Micro-</tspan><tspan x="8.069332" y="39.12423">service</tspan></text>
+		<path d="M212.58 496.04 368.48 496.04 368.48 524.37 212.58 524.37z"/>
+		<path d="M212.58 496.04 368.48 496.04 368.48 524.37 212.58 524.37z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(212.577957 496.035919)" x="44.62962" y="20.89269"><tspan x="44.62962" y="20.89269">Backend</tspan></text>
+		<path d="M248.01 269.26 286.27 294.82 287.2 295.45" fill="none" marker-end="url(#b)" stroke="#000" stroke-width="2.25" transform="matrix(-1 0 0 1 538.4503 0)"/>
+		<path d="M212.58 297.61 283.44 297.61 283.44 467.69 212.58 467.69z" fill="none" stroke="#000"/>
+		<text font-family="Segoe UI" font-size="13.5pt" transform="translate(212.578033 297.610718)" x="8.069374" y="39.12423"><tspan x="9.110878" y="17.52423">Micro-</tspan><tspan x="8.069374" y="39.12423">service</tspan></text>
+		<path d="M290.44 269.26 328.87 294.83 329.8 295.45" fill="none" marker-end="url(#b)" stroke="#000" stroke-width="2.25"/>
+		<path d="M396.76 240.92 524.38 240.92 524.38 269.25 396.76 269.25z"/>
+		<path d="M396.76 240.92 524.38 240.92 524.38 269.25 396.76 269.25z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(396.7622 240.917816)" x="28.05824" y="20.89269"><tspan x="28.05824" y="20.89269">Frontend</tspan></text>
+		<path d="M460.6 453.57 499.54 492.46 500.34 493.26" fill="none" marker-end="url(#b)" stroke="#000" stroke-dasharray="9 6.75" stroke-width="2.25" transform="matrix(-1 0 0 1 963.7188 0)"/>
+		<path d="M396.82 496.04 524.38 496.04 524.38 524.37 396.82 524.37z"/>
+		<path d="M396.82 496.04 524.38 496.04 524.38 524.37 396.82 524.37z" fill="none" stroke="#000"/>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="translate(396.8233 496.035919)" x="30.45636" y="20.89269"><tspan x="30.45636" y="20.89269">Backend</tspan></text>
+		<g fill="none" marker-end="url(#b)" stroke="#000" stroke-width="2.25">
+			<path d="M418.08 269.25 458 335.84 458.58 336.81" stroke-dasharray="9 6.75" transform="matrix(-1 0 0 1 878.6488 0)"/>
+			<path d="M418.08 453.57 457.02 492.46 457.82 493.26" stroke-dasharray="9 6.75"/>
+			<path d="M248.01 467.69 286.35 493.25 287.29 493.88"/>
+			<path d="M460.57 269.25 500.55 335.84 501.13 336.81" stroke-dasharray="9 6.75"/>
+		</g>
+		<g transform="matrix(0 -1 1 0 -333.101349 460.59964)">
+			<path d="M7.03 382.68 120.47 382.68 120.47 411.03 7.03 411.03z" fill="#70ad47"/>
+			<path d="M7.03 382.68 120.47 382.68 120.47 411.03 7.03 411.03z" fill="none" stroke="#507e32"/>
+		</g>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 49.574097 453.5706)" x="20.17223" y="20.89927"><tspan x="20.17223" y="20.89927">Service A</tspan></text>
+		<g transform="matrix(0 -1 1 0 -248.06192 545.639038)">
+			<path d="M92.07 382.68 205.51 382.68 205.51 411.03 92.07 411.03z" fill="#70ad47"/>
+			<path d="M92.07 382.68 205.51 382.68 205.51 411.03 92.07 411.03z" fill="none" stroke="#507e32"/>
+		</g>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 134.613525 453.570557)" x="20.79723" y="20.89927"><tspan x="20.79723" y="20.89927">Service B</tspan></text>
+		<g transform="matrix(0 -1 1 0 21.22934 814.9303)">
+			<path d="M361.36 382.68 474.8 382.68 474.8 411.03 361.36 411.03z" fill="#70ad47"/>
+			<path d="M361.36 382.68 474.8 382.68 474.8 411.03 361.36 411.03z" fill="none" stroke="#507e32"/>
+		</g>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 403.9048 453.570557)" x="20.17223" y="20.89927"><tspan x="20.17223" y="20.89927">Service A</tspan></text>
+		<g transform="matrix(0 -1 1 0 106.268768 899.9697)">
+			<path d="M446.4 382.68 559.84 382.68 559.84 411.03 446.4 411.03z" fill="#70ad47"/>
+			<path d="M446.4 382.68 559.84 382.68 559.84 411.03 446.4 411.03z" fill="none" stroke="#507e32"/>
+		</g>
+		<text fill="#fff" font-family="Segoe UI" font-size="13.5pt" transform="matrix(0 -1 1 0 488.9442 453.570557)" x="20.79723" y="20.89927"><tspan x="20.79723" y="20.89927">Service B</tspan></text>
+	</g>
+</svg>
